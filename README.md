@@ -17,7 +17,7 @@
 + 源代码获取：创建好工作目录并使用以下命令获取代码
 
 ```bash
-$ git clone https://gitee.com/ShareCoffee/CIH-Backend.git
+$ git clone https://github.com/yingyingyingyin/CIH-Bachend.git
 ```
 + 修改 `config/config.default.js`中关于mysql和redis链接的配置
 + 将`doc/database.sql`导入数据库，完成数据库初始化
